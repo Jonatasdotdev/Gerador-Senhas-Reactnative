@@ -71,6 +71,8 @@ Certifique-se de ter o Node.js e o Expo CLI instalados em seu sistema.
 - **Interface Amigável:** Uma interface de usuário simples e clara para fácil interação.
 - **Ajuste de Comprimento:** Escolha o comprimento desejado para sua senha.
 - **Senhas Seguras:** Geração de senhas seguras usando uma combinação de caracteres.
+- **Função de Deletar:** Clicando e segurando em uma senha salva você pode excluila.
+- **Função pra copiar:** Clicando e segurando na senha gerada ela é automaticamente copiada.
 
 ## Contribuição
 
