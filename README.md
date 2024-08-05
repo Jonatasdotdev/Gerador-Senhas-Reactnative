@@ -92,6 +92,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ![image](https://github.com/user-attachments/assets/28e40c12-ed59-4974-a7bc-05090b49fbdc)
 ![WhatsApp Image 2024-07-29 at 23 16 00](https://github.com/user-attachments/assets/1293f3a3-ff44-428c-8492-be07a67ff6dd)
 
+![WhatsApp Image 2024-08-05 at 08 27 18](https://github.com/user-attachments/assets/0296aa00-9fd3-4989-957d-1e0ad2e8f8d0)
 
 
 
